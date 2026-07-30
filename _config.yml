@@ -6,7 +6,7 @@ course_semester: "Fall 2025"
 
 # Update for your repo
 baseurl: "" # since this is a GitHub Pages project site, leave empty unless hosted under subpath
-url: "https://cs2201-iitp.github.io" # the base hostname & protocol for your site
+url: "https://pattern-recognition-iitp.github.io/" # the base hostname & protocol for your site
 
 schoolname: "Indian Institute of Technology Patna"
 schoolurl: "https://www.iitp.ac.in"
