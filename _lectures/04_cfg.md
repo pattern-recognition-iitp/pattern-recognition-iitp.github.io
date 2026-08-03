@@ -1,4 +1,4 @@
----
+<!-- ---
 type: lecture
 date: 2026-02-09T8:00:00+5:30
 title: Context Free Grammar
@@ -7,4 +7,4 @@ tldr: A concise introduction to context free grammars covering derivations, pars
 links: 
     - url: /static_files/presentations/Lect-CFG-Feb2026.pdf
       name: slides
----
+--- -->

@@ -1,4 +1,4 @@
----
+<!-- ---
 type: lecture
 date: 2026-04-24T18:58:00+05:30
 title: Turing Machines
@@ -8,3 +8,4 @@ links:
     - url: /static_files/presentations/Lec 2201-TM.pdf
       name: slides
 ---
+ -->

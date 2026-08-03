@@ -1,4 +1,4 @@
----
+<!-- ---
 type: lecture
 date: 2026-04-07T8:00:00+7:46
 title: Bottom Up Parser
@@ -8,3 +8,4 @@ links:
     - url: /static_files/presentations/Bottom-up-Parser.pdf
       name: slides
 ---
+ -->

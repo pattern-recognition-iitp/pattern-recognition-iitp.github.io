@@ -1,4 +1,4 @@
----
+<!-- ---
 type: lecture
 date: 2026-01-17T8:00:00+5:30
 title: Finite Automata
@@ -7,4 +7,4 @@ tldr: The document covers the fundamentals of Finite Automata (FA), including al
 links: 
     - url: /static_files/presentations/Lect-FA.pdf
       name: slides
----
+--- -->

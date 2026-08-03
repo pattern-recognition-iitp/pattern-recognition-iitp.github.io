@@ -1,4 +1,4 @@
----
+<!-- ---
 type: lecture
 date: 2026-01-23T8:00:00+5:30
 title: Regular Expression - Part 2
@@ -7,4 +7,4 @@ tldr: Explains three methods for converting regular expressions to automata, Tho
 links: 
     - url: /static_files/presentations/Lect-RE_Part-II.pdf
       name: slides
----
+--- -->

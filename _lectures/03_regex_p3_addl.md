@@ -1,4 +1,4 @@
----
+<!-- ---
 type: lecture
 date: 2026-02-04T8:00:00+5:30
 title: Regular Expression - Additional Resources
@@ -7,4 +7,4 @@ tldr: Explains regular expressions as an algebraic framework equivalent to DFAs 
 links: 
     - url: /static_files/presentations/RegEX Additional.pdf
       name: slides
----
+--- -->

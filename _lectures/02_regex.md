@@ -1,4 +1,4 @@
----
+<!-- ---
 type: lecture
 date: 2026-01-22T8:00:00+5:30
 title: Regular Expression - Part 1
@@ -7,4 +7,4 @@ tldr: Introduces regular expressions as an algebraic way to describe regular lan
 links: 
     - url: /static_files/presentations/Lect-RE_Part-I.pdf
       name: slides
----
+--- -->

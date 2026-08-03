@@ -1,4 +1,4 @@
----
+<!-- ---
 type: lecture
 date: 2026-03-22T8:00:00+7:09
 title: Pushdown Automata
@@ -8,3 +8,4 @@ links:
     - url: /static_files/presentations/PDA.pdf
       name: slides
 ---
+ -->
