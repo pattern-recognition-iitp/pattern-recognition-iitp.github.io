@@ -1,4 +1,4 @@
----
+<!-- ---
 type: assignment
 date: 2026-03-09T15:30:00+5:30
 title: 'Assignment #2 - CFG'
@@ -9,3 +9,4 @@ due_event:
     date: 2026-03-17T23:59:59+5:30
     description: 'Assignment #2 due'
 ---
+ -->

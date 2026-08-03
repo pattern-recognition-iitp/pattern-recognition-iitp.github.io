@@ -1,4 +1,4 @@
----
+<!-- ---
 type: assignment
 date: 2026-04-12T4:00:00+10:27
 title: 'Assignment #4 - LEX and YACC'
@@ -10,3 +10,4 @@ due_event:
     description: 'Assignment #4 due'
 ---
 Please submit the assignment as <rollno>_assignment_4.zip -->
+ -->

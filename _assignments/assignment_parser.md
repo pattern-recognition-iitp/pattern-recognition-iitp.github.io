@@ -1,4 +1,4 @@
----
+<!-- ---
 type: assignment
 date: 2026-03-22T15:30:00+7:00
 title: 'Assignment #3 - Arithmetic Parser'
@@ -9,3 +9,4 @@ due_event:
     date: 2026-03-30T23:59:59+5:30
     description: 'Assignment #3 due'
 ---
+ -->
