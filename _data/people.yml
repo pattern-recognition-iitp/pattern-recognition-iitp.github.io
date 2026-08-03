@@ -12,22 +12,46 @@ teaching_assistants:
     email: dibyanayan@gmail.com
     profile_pic: /_images/pp/dibyanayan_banarjee.JPG
 
-  - name: Pranta Pratim Roy 
-    email: mpranta97@gmail.com
-    profile_pic: /_images/pp/Pranta_Pratim_Roy.jpeg
+  - name: Avinash Kumar
+    email: avinash_2522cs10@iitp.ac.in
+#    profile_pic: /_images/pp/dibyanayan_banarjee.JPG
 
-  - name: Anup Kumar Gond 
-    email: gondanup87@gmail.com
-    profile_pic: /_images/pp/Anup_Kumar_Gond.jpg
+  - name: Ayushi
+    email: ayushi_2621cs03@iitp.ac.in
+#    profile_pic: /_images/pp/dibyanayan_banarjee.JPG
 
-  - name: Rishabh Raj
-    email: rishabh13raj@gmail.com
-    profile_pic: /_images/pp/rishabh_raj.jpeg
+  - name: Josiga S
+    email: josiga_2511ai10@iitp.ac.in
+#    profile_pic: /_images/pp/dibyanayan_banarjee.JPG
 
-  - name:  Soumajith Das
-    email: soumajithdas@gmail.com
-    profile_pic: /_images/pp/soumajithdas.jpeg
+  - name: Suruchi
+    email: suruchi_2511ai48@iitp.ac.in
+#    profile_pic: /_images/pp/dibyanayan_banarjee.JPG
 
-  - name:  Samyaka Bhavsagar
-    email: bsamyaka@gmail.com
-    profile_pic: /_images/pp/samyaka.jpeg
+  - name: Virat Prasad
+    email: virat_2511ai17@iitp.ac.in
+    profile_pic: /_images/pp/virat.jpg
+
+
+
+#Below are the people who have contributed to the previous course in the past and their details will be remove in future.
+
+#  - name: Pranta Pratim Roy 
+#    email: mpranta97@gmail.com
+#    profile_pic: /_images/pp/Pranta_Pratim_Roy.jpeg
+
+#  - name: Anup Kumar Gond 
+#    email: gondanup87@gmail.com
+#    profile_pic: /_images/pp/Anup_Kumar_Gond.jpg
+
+#  - name: Rishabh Raj
+#    email: rishabh13raj@gmail.com
+#    profile_pic: /_images/pp/rishabh_raj.jpeg
+
+#  - name:  Soumajith Das
+#    email: soumajithdas@gmail.com
+#    profile_pic: /_images/pp/soumajithdas.jpeg
+
+#  - name:  Samyaka Bhavsagar
+#    email: bsamyaka@gmail.com
+#    profile_pic: /_images/pp/samyaka.jpeg
