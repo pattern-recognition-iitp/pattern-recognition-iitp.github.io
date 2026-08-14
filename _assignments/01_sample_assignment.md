@@ -1,12 +1,12 @@
-<!-- ---
+---
 type: assignment
-date: 2026-02-04T4:00:00+5:30
-title: 'Assignment #1 - RegEx'
-pdf: /static_files/assignments/Assignment_1___RegEx.pdf
-submit_link: https://forms.gle/6PPyXvdMfqBt23mp6
+date: 2026-08-14
+title: 'Assignment #1 - Decision Tree'
+pdf: /static_files/assignments/Assignment1-DecisionTree.pdf
+submit_link: 'https://docs.google.com/forms/d/e/1FAIpQLSd18B4CQUp65KYdts3tRLnOfYFipPd5j1QrYxJEmkdci6XhDA/viewform'
 due_event: 
     type: due
-    date: 2026-02-11T23:59:59+5:30
-    description: 'Assignment #1 due'
+    date: 2026-08-21
+    description: 'Assignment #1 Decision Tree due'
 ---
- -->
+ 

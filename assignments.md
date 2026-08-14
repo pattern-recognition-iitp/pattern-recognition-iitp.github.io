@@ -1,6 +1,7 @@
 ---
-layout: assignments
-title: Assignments
-permalink: /assignments/
+layout: assignment
+type: assignment
+title: Assignment 1 - Decision Tree
+date: 2026-08-14
+pdf: /static_files/assignments/Assignment1-DecisionTree.pdf
 ---
-You can download the assignments here. Also check out each assignment page for any additional info.
