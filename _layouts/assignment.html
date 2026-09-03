@@ -2,83 +2,38 @@
 layout: default
 title: page.title
 ---
-
 <div class="post">
 
   <header class="post-header">
+    <h1 class="post-title">{{ page.title }}</h1>
+    <p class="post-meta">Released on {{ page.date | date: "%A %d/%m/%Y %H:%M" }}</p>
+  </header>
 
-    <h1 class="post-title" style="
-      color: #222;
-      font-family: 'Times New Roman', Times, serif;
-      font-weight: normal;
-      font-size: 28px;
-      margin-bottom: 8px;
-    ">
-
-      {{ page.title }}
-
-      {% if page.pdf %}
-      <span style="
-        font-family: 'Times New Roman', Times, serif;
-        font-size: 16px;
-        font-weight: normal;
-      ">
-        [
-        <a href="{{ page.pdf | prepend: site.baseurl }}">Download Assignment PDF</a>
-        ]
-      </span>
-      {% endif %}
-
-    </h1>
-
-    {% if page.date %}
-    <p style="
-      font-family: 'Times New Roman', Times, serif;
-      font-size: 16px;
-      color: #555;
-      margin: 0 0 5px 0;
-    ">
-      Uploaded on {{ page.date | date: "%d/%m/%Y" }}
-    </p>
+  <div>
+    {% if page.due_event %}
+    <span style="font-weight: bold">
+      Due Date: {{ page.due_event.date | date: "%d/%m/%Y %H:%M" }}
+    </span>
     {% endif %}
-
-    <p style="
-      font-family: 'Times New Roman', Times, serif;
-      font-size: 16px;
-      color: #555;
-      margin: 0 0 5px 0;
-    ">
-      Deadline: 21/08/2026
-    </p>
-
-    {% if page.submit_link or page.attachment or page.solutions %}
-    <p style="
-      font-family: 'Times New Roman', Times, serif;
-      font-size: 16px;
-      margin: 5px 0 0 0;
-    ">
-
+    <p style="font-weight: bold">
+      {% if page.pdf %}
+      [<a href="{{ page.pdf | prepend: site.baseurl }}">Download</a>]
+      {% endif %}
       {% if page.submit_link %}
       [<a href="{{ page.submit_link | prepend: site.baseurl }}">Submission Link</a>]
       {% endif %}
-
       {% if page.attachment %}
       [<a href="{{ page.attachment | prepend: site.baseurl }}">Attachment</a>]
       {% endif %}
-
       {% if page.solutions %}
       [<a href="{{ page.solutions | prepend: site.baseurl }}">Solutions</a>]
       {% endif %}
-
     </p>
-    {% endif %}
+  </div>
 
-  </header>
-
-  {% if content != "" %}
+  <br />
   <article class="post-content">
     {{ content }}
   </article>
-  {% endif %}
 
 </div>
