@@ -9,4 +9,3 @@ due_event:
     date: 2026-10-27T23:59:59+5:30
     description: 'Assignment #3 due'
 ---
-Submit one ZIP file named rollno1 rollno2 rollno3.zip
