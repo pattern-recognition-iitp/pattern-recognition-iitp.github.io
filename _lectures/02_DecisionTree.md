@@ -5,6 +5,6 @@ title: Lecture 2 - Decision Trees
 thumbnail: /static_files/presentations/lecture2.png
 hide_from_announcments: true
 links:
-  - url: /static_files/presentations/Lecture2-DecisionTree.pdf
+  - url: /static_files/presentations/Lec2- DecisionTree.pdf
     name: slides
 ---
